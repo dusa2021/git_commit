@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "simple calculator"
+ech "simple calculator"
 sum=0
 i="y"
 echo "enter first number"
